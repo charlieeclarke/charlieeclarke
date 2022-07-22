@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @charlieeclarke
-- 👀 I’m interested in ... learning to be a front end developer. 
-- 🌱 I’m currently learning ... HTML, CSS, Javascript and React.
+- 🌱 I’m currently working in ... React, TypeScript, Javascript and CSS.
 - 📫 How to reach me ... via email @ clarkecharlie@hotmail.co.uk
 
 <!---

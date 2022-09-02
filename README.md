@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @charlieeclarke
-- 🌱 I’m currently working in ... React, TypeScript, Javascript and CSS.
-- 📫 How to reach me ... via email @ clarkecharlie@hotmail.co.uk
+- 👋 Hi, I’m @charlieeclarke;
+- 🌱 I’m currently working in ... React, TypeScript, Javascript and CSS;
+- 🏠 Currently working at madebyon.com;
 
 <!---
 charlieeclarke/charlieeclarke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

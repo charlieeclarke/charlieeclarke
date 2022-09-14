@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @charlieeclarke;
-- 🌱 I’m currently working in ... React, TypeScript, Javascript and CSS;
+- 🌱 I’m currently a Junior Developer working in ... React, TypeScript, Javascript and CSS;
 - 🏠 Currently working at madebyon.com;
 
 <!---
